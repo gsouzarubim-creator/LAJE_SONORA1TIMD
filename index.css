@@ -184,6 +184,7 @@ margin-top: 96px;
   justify-content: space-between;
   align-items: center;
 }
+<<<<<<< HEAD
 
 .passos{
   display: flex;
@@ -231,3 +232,5 @@ margin-top: 96px;
   color: var(--fita);
   margin-bottom: 12px;
 }
+=======
+>>>>>>> 0654686efd132adcb75932e450df266cc567be92
